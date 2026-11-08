@@ -18,7 +18,7 @@
    - 최신 릴리스에서 `SetMaxPlayer.dll` 파일을 다운로드합니다.
    - 게임 설치 경로 내 플러그인 폴더에 파일을 넣습니다.
      ```text
-     F:\SteamLibrary\steamapps\common\Sephiria\BepInEx\plugins\SetMaxPlayer.dll
+     SteamLibrary\steamapps\common\Sephiria\BepInEx\plugins\SetMaxPlayer.dll
      ```
 
 3. **의존성 라이브러리 확인**
